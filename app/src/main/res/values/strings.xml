@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent Data Passing Test</string>
+    <string name="passInt">PASS INTEGER TO 2ND ACTIVITY</string>
+    <string name="passChar">PASS CHARACTER VALUE TO 2ND ACTIVITY</string>
+    <string name="passDouble">PASS DOUBLE VALUE TO 2ND ACTIVITY</string>
+    <string name="intValue">Integer value receieved is: </string>
+    <string name="charValue">Integer char receieved is: </string>
+</resources>
